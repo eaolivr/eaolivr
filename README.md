@@ -1,4 +1,4 @@
-## Olá eu sou (Maria Victoria Oliveira Ribeiro)
+## Olá eu sou Maria Victoria Oliveira Ribeiro
 
 Sou um desenvolvedor em início de carreira, apaixonado pelo mundo do desenvolvimento de software e pelo aprendizado constante. Estou em busca da minha primeira oportunidade para aplicar e aprimorar os conhecimentos adquiridos, entregando soluções eficientes e escaláveis. Tenho experiência prática com Node.js para desenvolvimento de APIs, além de um forte foco em banco de dados como MySQL. No front-end, utilizo HTML, CSS, JavaScript e frameworks como Bootstrap para criar interfaces responsivas e de fácil uso. Também valorizo o uso de metodologias ágeis para manter a organização e o alinhamento com os objetivos do projeto. Comprometido com o aprendizado contínuo, estou sempre acompanhando inovações e tendências do mercado para oferecer soluções que atendam às necessidades dos clientes.
 
